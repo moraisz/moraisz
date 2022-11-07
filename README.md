@@ -1,8 +1,8 @@
 ### Olá! Eu sou o moraisz 👋
 
 - 🔭 Estudante de Ciências da Computação
-- 🌱 Aprendendo Python, em seguida irei aprender JS, HTML, CSS e React
-- ⚡ Adoro tecnologias novas
+- 🌱 Aprendendo Python
+- ⚡ Adoro novas tecnologias
 
 <div align="center">
   <a href="https://github.com/moraisz">
