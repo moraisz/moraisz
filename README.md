@@ -1,6 +1,6 @@
 ### Olá! Eu sou o moraisz 👋
 
-- 🔭 Estudante de Ciências da Computação
+- 🔭 Estudante de Programação
 - 🌱 Aprendendo Python
 - ⚡ Adoro novas tecnologias
 
