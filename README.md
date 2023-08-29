@@ -9,4 +9,4 @@
  
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/moraisz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/moraisz/)
