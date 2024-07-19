@@ -5,7 +5,7 @@
 
 ## Principais Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,qt,java,mysql,docker,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,php,java,mysql,postgres,docker,git,github&theme=dark)](https://skillicons.dev)
  
 ## Conecte-se Comigo
 
