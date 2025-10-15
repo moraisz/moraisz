@@ -1,12 +1,20 @@
-# Olá, me chamo Marcos Vinicius 👋
+# Hey, my name is Marcos Vinicius Morais 👋
 
-![moraisz's GitHub stats](https://github-readme-stats.vercel.app/api?username=moraisz&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraisz&theme=dracula)](https://github.com/moraisz/github-readme-stats)
+or just call me **Morais**.
 
-## Principais Tecnologias
+## About me
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,php,laravel,mysql,postgres,docker,git,github&theme=dark)](https://skillicons.dev)
+I'm a developer focused on web development, but in my free time I enjoy experimenting with embedded devices or playing with Linux.
+
+## I code with
+
+[![My Skills](https://skillicons.dev/icons?i=php,python,c&theme=dark)](https://skillicons.dev)
+
+## Some technologies i have worked with
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,git,docker,aws,gcp,linux&theme=dark)](https://skillicons.dev)
  
-## Conecte-se Comigo
+## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/moraisz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/moraisz/)
+
